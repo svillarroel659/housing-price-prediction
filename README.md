@@ -74,6 +74,6 @@ Overall, the results suggest that tree-based ensemble methods were well suited t
 
 ## Data Availability
 
-The Ames Housing dataset is publicly available and was accessed through OpenML using Python’s `fetch_openml()` function.
+The Ames Housing dataset is publicly available and was accessed through OpenML using Python's `fetch_openml()` function.
 
 The dataset is not included directly in this repository because it can be downloaded automatically when the notebook is executed.
