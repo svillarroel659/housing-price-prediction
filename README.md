@@ -58,7 +58,7 @@ Root mean squared error, or RMSE, was used as the primary model-comparison metri
 - Prediction errors were larger for some high-value properties.
 - Overall quality, exterior quality, property age, garage capacity, and above-ground living area were among the most influential features.
 
-Overall, the results suggest that tree-based ensemble methods were well suited to capturing the nonlinear relationships and interactions found in the housing data. :contentReference[oaicite:1]{index=1}
+Overall, the results suggest that tree-based ensemble methods were well suited to capturing the nonlinear relationships and interactions found in the housing data. 
 
 ## Tools
 
@@ -71,12 +71,6 @@ Overall, the results suggest that tree-based ensemble methods were well suited t
 - scikit-learn
 - XGBoost
 - TensorFlow / Keras
-
-## Project Files
-
-- `ames_housing_prediction.ipynb` — Complete analysis with code and output
-- `ames_housing_results.pdf` — Results-focused report
-- `README.md` — Project overview and key findings
 
 ## Data Availability
 
