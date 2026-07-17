@@ -17,7 +17,7 @@ Two additional variables were created:
 - `Age`, representing the age of the property when it was sold
 - `Has_Garage`, indicating whether the property had a garage
 
-Because sale prices were strongly right-skewed, the target variable was transformed using the natural logarithm before model development. :contentReference[oaicite:0]{index=0}
+Because sale prices were strongly right-skewed, the target variable was transformed using the natural logarithm before model development.
 
 ## Methods
 
